@@ -1,0 +1,20 @@
+.n {
+    background-color: black;
+    color: snow;
+}
+.d {
+    background-color: azure;
+    color: darkblue;
+}
+h1 {
+    font-size: 8vmin;
+}
+h2 {
+    font-size: 6vmin;
+}
+h3 {
+    font-size: 5vmin;
+}
+p {
+    font-size: 3vmin;
+}
